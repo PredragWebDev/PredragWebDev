@@ -71,11 +71,11 @@
   <br />
   
   <div align="center">
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.b06783c9b729bf09" title="live:.cid.b06783c9b729bf09"/>
+    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="id: live:.cid.bec83bc7fd28c05a" title="id: live:.cid.bec83bc7fd28c05a"/>
     &nbsp;&nbsp;
 <!--     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="superdev0829" title="superdev0829"/>
     &nbsp;&nbsp; -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="SnowRobert#7393" title="SnowRobert#7393"/>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="chatgpt#3606" title="chatgpt#3606"/>
     &nbsp;&nbsp;
   </div>
 </div>
