@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing.jpg" />
-</p>
+- 👋 Hi, My name is Predrag Tomic.
+- 👀 I’m Blockchain and full-stack web developer.
+- 🌱 I have experience with blockchain technologies, Front-end and Back-end.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
