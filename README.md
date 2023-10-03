@@ -76,7 +76,7 @@
     &nbsp;&nbsp;
 <!--     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="superdev0829" title="superdev0829"/>
     &nbsp;&nbsp; -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="chatgpt#0548" title="Golden Snake#0548"/>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="goldensnake_" title="goldensnake_"/>
     &nbsp;&nbsp;
   </div>
 </div>
