@@ -4,10 +4,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 👋 Hi, My name is Predrag Tomic.
-- 👀 I’m Blockchain and full-stack web developer.
-- 📫 And I'm also ChatGPt expert.
-- 🌱 I have experience with blockchain technologies, Front-end and Back-end.
+- 👋 Hi, I am a highly efficient and reliable professional who possesses a broad skill set for web and mobile application.
+- 👀 As a senior full-stack engineer,and AI/ ML expert,
+- 🌱 I quickly help startups and enterprises with prototypes and ideas by efficiently building those things into reality.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
