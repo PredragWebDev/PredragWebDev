@@ -12,9 +12,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&column=7&theme=onedark"/>
 </p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;enough%20working%20experience&width=380&height=45">
@@ -23,11 +20,11 @@
 
 ## Skills
 
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
-- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
-- 📫 Interesting : AI, Blockchain
+- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Bootstrap, TailwindCSS, Material UI, React Native
+- 🔭 Backend : Java Spring Boot, Node.js, Python, Laravel, Django, Nest.js
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Oracle
+- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby on Rails, Python, PHP, Rust
+- 📫 Cutting-Edge : AI, ML
 
 ## Languagers & Tools
 
@@ -62,20 +59,3 @@
 
 <br />
 
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-  <br />
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="id: live:.cid.43dc0f9cf97bf41" title="id: live:.cid.43dc0f9cf97bf41"/>
-    &nbsp;&nbsp;
-<!--     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="superdev0829" title="superdev0829"/>
-    &nbsp;&nbsp; -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="goldensnake_" title="goldensnake_"/>
-    &nbsp;&nbsp;
-  </div>
-</div>
